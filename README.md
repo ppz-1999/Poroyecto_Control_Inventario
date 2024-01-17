@@ -1,2 +1,2 @@
-# Poroyecto_Control_Inventario
+# Proyecto_Control_Inventario
 Creación de Proyecto
